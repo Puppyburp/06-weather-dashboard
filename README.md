@@ -10,4 +10,4 @@ GitHub link to page: (https://puppyburp.github.io/06-weather-dashboard/)
 
 The following image demonstrates the application functionality:
 
-![weather dashboard](./weather-dashboard-demo.png)
+![weather dashboard](/weather-dashboard-demo.png)
